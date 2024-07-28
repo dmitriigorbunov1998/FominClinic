@@ -1,0 +1,10 @@
+:root {
+    font-family: Circe, sans-serif;
+    background: #fee3e3;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

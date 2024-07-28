@@ -1,0 +1,34 @@
+.userCard {
+    display: flex;
+    width: calc(25% - 10px);
+    padding: 16px;
+    border-radius: 8px;
+    margin-top: 1rem;
+    background: #FFFFFF;
+    flex-direction: column;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 22px;
+    color: #0b1943;
+    font-weight: 600;
+}
+
+.badge {
+    margin-top: 8px;
+    font-size: 14px;
+    color: #c5017e;
+    width: max-content;
+    font-weight: 600;
+}
+
+.contactBadge {
+    margin-top: 8px;
+    background: #c5017e;
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 14px;
+    color: #fff;
+    width: max-content;
+}

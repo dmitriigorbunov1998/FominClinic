@@ -1,0 +1,69 @@
+.userPage {
+    width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.userPageTitle {
+    margin-top: 2.5rem;
+    font-size: 24px;
+    color: #0b1943;
+    font-weight: 600;
+}
+
+.tablesWrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.userTable {
+    margin-top: 1.5rem;
+    background: white;
+    padding: 1rem;
+}
+
+.userTableTitle {
+    justify-content: space-between;
+    display: flex;
+    font-size: 14px;
+    align-items: center
+}
+
+.dateBadge {
+    padding: 0.5rem 1rem;
+    color: #c5017e;
+    background: #FFE3E6;
+    border-radius: 56px;
+}
+
+.toggle {
+    color: #c5017e;
+    display: flex;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.userTableHeader {
+    display: flex;
+    padding: 18px 0;
+    font-weight: 300;
+    color: #0b1943;
+    border-bottom: 1px solid #0B1943
+}
+
+.userTableCell {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.userTableBigCell {
+    flex: 2;
+}
+
+.userTableRow {
+    display: flex;
+    padding: 18px 0;
+    font-weight: 300;
+}

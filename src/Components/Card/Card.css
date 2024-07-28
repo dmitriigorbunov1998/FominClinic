@@ -1,0 +1,9 @@
+.usersWrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    column-gap: 0.5rem;
+    width: 1158px;
+    margin-left: auto;
+    margin-right: auto;
+}
